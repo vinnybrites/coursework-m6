@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MEC
+comment1.params=uni
+comment1.target=void\ imprimeUniverdidades(Universidade[])
+comment2.params=cara
+comment2.target=void\ maisCara(Universidade[])
+comment3.params=sul
+comment3.target=void\ universidadesDoSul(Universidade[])
+numComments=4
